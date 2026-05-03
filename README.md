@@ -4,12 +4,13 @@ Curly Pig is a Codex digital pet package.
 
 It contains a compact chibi pig mascot with black bean eyes, a pink snout, magenta curl markings, tiny legs, and a curly tail.
 
-![Curly Pig spritesheet](spritesheet.webp)
+![Curly Pig](curly-pig.png)
 
 ## Files
 
 - `pet.json` - Codex pet metadata.
 - `spritesheet.webp` - 8x9 animated pet spritesheet, 1536x1872 pixels.
+- `curly-pig.png` - preview image cropped from the top-left spritesheet cell.
 
 ## Install
 
